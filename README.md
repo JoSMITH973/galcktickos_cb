@@ -1,6 +1,9 @@
 # GALCKTICKOS'CB
   Tenez à jour votre inventaire personnel grâce à Galcktickos'CB!
 
+  Lien du snack Expo :
+  https://snack.expo.dev/@josmith973/galcktickos_cb
+
   Consultez votre inventaire :
   
   <img src="https://github.com/JoSMITH973/galcktickos_cb/blob/main/images/accueil.png" data-canonical-src="https://github.com/JoSMITH973/galcktickos_cb/blob/main/images/accueil.png" width="200" />
