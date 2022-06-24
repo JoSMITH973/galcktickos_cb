@@ -1,5 +1,7 @@
-# GALACKTICKOS SHOP
-  Tenez à jour votre inventaire personnel grâce à Galacktickos SHOP!
+# GALCKTICKOS'CB
+  Tenez à jour votre inventaire personnel grâce à Galcktickos'CB!
+
+  Consultez votre inventaire :
 
 # Credits :
 - SMITH Joan
